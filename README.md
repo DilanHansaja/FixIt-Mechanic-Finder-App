@@ -46,12 +46,12 @@
   <tr>
     <td align="center" width="33%"><b>📍 Real-Time Map</b></td>
     <td align="center" width="33%"><b>🔧 Mechanic Profile</b></td>
-    <td align="center" width="33%"><b>💳 Secure Payment</b></td>
+    <td align="center" width="33%"><b>💳 Hire Mechanic</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/map_view.png" width="100%" alt="Map View"/></td>
-    <td><img src="screenshots/profile.png" width="100%" alt="Profile View"/></td>
-    <td><img src="screenshots/payment.png" width="100%" alt="Payment View"/></td>
+    <td><img src="screenshots/map_view.jpeg" width="100%" alt="Real-Time Map"/></td>
+    <td><img src="screenshots/mech_profile.jpeg" width="100%" alt="Mechanic Profile"/></td>
+    <td><img src="screenshots/hire_req.jpeg" width="100%" alt="Hire Mechanic"/></td>
   </tr>
 </table>
 
