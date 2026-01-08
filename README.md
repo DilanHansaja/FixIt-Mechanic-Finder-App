@@ -44,14 +44,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>📍 Real-Time Map</b></td>
-    <td align="center" width="33%"><b>🔧 Mechanic Profile</b></td>
-    <td align="center" width="33%"><b>💳 Hire Mechanic</b></td>
+    <td align="center" width="25%"><b>📍 Real-Time Map</b></td>
+    <td align="center" width="25%"><b>🔧 Mechanic Profile</b></td>
+    <td align="center" width="25%"><b>📲 Hire Request</b></td>
+    <td align="center" width="25%"><b>📊 Admin Dashboard</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/map_view.jpeg" width="100%" alt="Real-Time Map"/></td>
     <td><img src="screenshots/mech_profile.jpeg" width="100%" alt="Mechanic Profile"/></td>
-    <td><img src="screenshots/hire_req.jpeg" width="100%" alt="Hire Mechanic"/></td>
+    <td><img src="screenshots/hire_req.jpeg" width="100%" alt="Hire Request"/></td>
+    <td><img src="screenshots/admin.jpeg" width="100%" alt="Admin Dashboard"/></td>
   </tr>
 </table>
 
