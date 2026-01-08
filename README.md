@@ -12,31 +12,31 @@
 
 **FixIt** is a native Android application designed to solve a critical problem: **Vehicle breakdowns in unfamiliar locations.**
 
-Traditional methods of finding a mechanic rely on word-of-mouth or outdated directories. [cite_start]FixIt solves this by using **Location-Based Services (LBS)** to connect stranded vehicle owners with the nearest qualified mechanics in real-time[cite: 37, 49].
+Traditional methods of finding a mechanic rely on word-of-mouth or outdated directories. FixIt solves this by using **Location-Based Services (LBS)** to connect stranded vehicle owners with the nearest qualified mechanics in real-time.
 
 The system features two distinct user roles:
-* [cite_start]**Mechanics:** Can manage profiles, set hourly rates, and undergo KYC verification[cite: 18].
-* [cite_start]**Vehicle Owners:** Can view nearby mechanics on a map, request help, and track arrival[cite: 20].
+* **Mechanics:** Can manage profiles, set hourly rates, and undergo KYC verification.
+* **Vehicle Owners:** Can view nearby mechanics on a map, request help, and track arrival.
 
 ## ✨ Key Features
 
 ### 🗺️ Real-Time Geolocation
-* [cite_start]**Proximity Search:** Uses **GeoHash** queries to filter mechanics within a **10 km radius** of the user[cite: 288, 289].
-* [cite_start]**Live Tracking:** Users can track the mechanic's location in real-time as they travel to the breakdown site[cite: 81].
-* [cite_start]**Distance Calculation:** Displays exact distance (e.g., "10 km away") to help users choose the fastest option[cite: 77].
+* **Proximity Search:** Uses **GeoHash** queries to filter mechanics within a **10 km radius** of the user.
+* **Live Tracking:** Users can track the mechanic's location in real-time as they travel to the breakdown site.
+* **Distance Calculation:** Displays exact distance (e.g., "10 km away") to help users choose the fastest option.
 
 ### 🔐 Trust & Security (KYC)
-* [cite_start]**Verification Badge:** Mechanics must upload NIC (National ID) and a selfie for admin approval[cite: 18].
-* [cite_start]**OTP Task Start:** To prevent fraud, the mechanic cannot "start" the billing timer until they enter a unique code provided by the user upon arrival[cite: 82].
+* **Verification Badge:** Mechanics must upload NIC (National ID) and a selfie for admin approval.
+* **OTP Task Start:** To prevent fraud, the mechanic cannot "start" the billing timer until they enter a unique code provided by the user upon arrival.
 
 ### 💸 Automated Billing & Payments
-* [cite_start]**Dynamic Cost Engine:** Automatically calculates the final bill based on the **Mechanic’s Hourly Rate** × **Exact Time Duration**[cite: 86].
-* [cite_start]**Payment Gateway:** Integrated **PayHere SDK** for secure credit/debit card transactions[cite: 213].
-* [cite_start]**Cash Option:** Supports traditional cash payments with manual verification[cite: 90].
+* **Dynamic Cost Engine:** Automatically calculates the final bill based on the **Mechanic’s Hourly Rate** × **Exact Time Duration**.
+* **Payment Gateway:** Integrated **PayHere SDK** for secure credit/debit card transactions.
+* **Cash Option:** Supports traditional cash payments with manual verification.
 
 ### 📊 Dashboard & Analytics
-* [cite_start]**Task History:** Complete log of past repairs and payments[cite: 92].
-* [cite_start]**Performance Charts:** Integrated **MPAndroidChart** to visualize data[cite: 213].
+* **Task History:** Complete log of past repairs and payments.
+* **Performance Charts:** Integrated **MPAndroidChart** to visualize data.
 
 ---
 
@@ -58,15 +58,15 @@ This project follows a **Client-Server** architecture using modern Android devel
 
 | Component | Technology |
 | :--- | :--- |
-| **Language** | [cite_start]Java (Android Native) [cite: 213] |
-| **UI Framework** | [cite_start]Android XML [cite: 213] |
-| **Database** | [cite_start]Firebase Firestore (NoSQL) [cite: 213] |
+| **Language** | Java (Android Native) |
+| **UI Framework** | Android XML |
+| **Database** | Firebase Firestore (NoSQL) |
 | **Auth** | Firebase Authentication |
-| **Storage** | [cite_start]Firebase Storage (For KYC Documents) [cite: 213] |
-| **Maps & Location** | [cite_start]Google Maps SDK, Directions API [cite: 370] |
-| **Networking** | [cite_start]OkHttp [cite: 213] |
-| **Payment Gateway** | [cite_start]PayHere Android SDK [cite: 213] |
-| **Local Database** | [cite_start]SQLite (Offline History) [cite: 213] |
+| **Storage** | Firebase Storage (For KYC Documents) |
+| **Maps & Location** | Google Maps SDK, Directions API |
+| **Networking** | OkHttp |
+| **Payment Gateway** | PayHere Android SDK |
+| **Local Database** | SQLite (Offline History) |
 
 ---
 
@@ -89,7 +89,7 @@ Since the backend keys are expired, you will need to supply your own API keys to
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YourUsername/FixIt-Mechanic-App.git](https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git)
+    git clone [https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git](https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git)
     ```
 2.  **Open in Android Studio** (Recommended: Ladybug or newer).
 3.  **Configure Secrets**
