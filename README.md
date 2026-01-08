@@ -15,9 +15,9 @@
 
   <p>
     <a href="#-key-features">Key Features</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-architecture">Architecture</a> •
-    <a href="#-setup--installation">Setup</a>
+    <a href="#%EF%B8%8F-tech-stack--dependencies">Tech Stack</a> •
+    <a href="#%EF%B8%8F-setup--installation">Setup</a> •
+    <a href="#-author">Author</a>
   </p>
 
 </div>
@@ -26,7 +26,7 @@
 
 > **⚠️ PROJECT STATUS: ARCHIVED / PORTFOLIO SHOWCASE**
 > 
-> This project was developed as a final year undergraduate assignment. The backend services (Firebase/Google Maps) are currently decommissioned. This repository serves as a showcase of **Android architecture, Geolocation logic, and Payment integration skills**.
+> This project was developed as a final year undergraduate assignment. The backend services (Firebase/Google Maps) are currently decommissioned. This repository serves as a showcase of **Android architecture, geolocation logic, and payment integration skills**.
 
 ---
 
@@ -60,17 +60,17 @@
 ## ✨ Key Features
 
 ### 🗺️ Advanced Geolocation Engine
-* **GeoHash Algorithms:** Efficiently queries Firestore to find mechanics strictly within a **10 km radius**.
-* **Live Tracking:** Utilizes **Google Maps SDK** to render mechanic movement in real-time updates (100m threshold optimization).
+* **GeoHash Algorithms:** Efficiently queries Firestore to find mechanics strictly within a **10km radius**.
+* **Live Tracking:** Utilizes **Google Maps SDK** to render mechanic movement with real-time updates (100m threshold optimization).
 * **Distance Matrix:** Automatically calculates arrival time and distance.
 
 ### 🔐 Trust & Security Architecture
-* **KYC Verification System:** Mechanics must upload **National ID (NIC)** and **Selfie** to Firebase Storage. Admin approval is required for the "Verified" badge.
+* **KYC Verification System:** Mechanics must upload **National ID (NIC)** and **selfie** to Firebase Storage. Admin approval is required for the "Verified" badge.
 * **OTP Handshake:** To prevent fraud, the task timer *cannot start* until the mechanic enters a unique **6-digit code** provided by the user upon arrival.
 
 ### 💸 Dynamic Billing & Payments
 * **Automated Cost Engine:**
-    > Final Cost = (Duration_Hours * Hourly_Rate)
+    > Final Cost = (Duration_Hours × Hourly_Rate)
     
     *Logic handles minimum 1-hour charge and minute-by-minute billing thereafter.*
 * **Payment Gateway:** Integrated **PayHere SDK** for seamless credit/debit card processing.
@@ -79,7 +79,7 @@
 
 ## 🛠️ Tech Stack & Dependencies
 
-This project is built using a **Native Android** approach, ensuring high performance and smooth animations.
+This project is built using a **native Android** approach, ensuring high performance and smooth animations.
 
 | Category | Technology | Usage |
 | :--- | :--- | :--- |
@@ -116,6 +116,6 @@ Since the backend keys are decommissioned, you must provide your own API keys to
 
 ## 👨‍💻 Author
 
-**Software Engineering Student** *Open Source Portfolio Showcase*
+**Software Engineering Student** | *Open Source Portfolio Showcase*
 
 ---
