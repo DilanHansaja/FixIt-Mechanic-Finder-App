@@ -101,4 +101,4 @@ Since the backend services are decommissioned, you must provide your own API key
 Run this command in your terminal to download the project:
 
 ```bash
-git clone [https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git](https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git)
+git clone https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git
