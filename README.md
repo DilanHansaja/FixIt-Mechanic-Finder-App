@@ -17,7 +17,6 @@
     <a href="#-key-features">Key Features</a> •
     <a href="#%EF%B8%8F-tech-stack--dependencies">Tech Stack</a> •
     <a href="#%EF%B8%8F-setup--installation">Setup</a> •
-    <a href="#-author">Author</a>
   </p>
 
 </div>
@@ -44,11 +43,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><b>📍 Real-Time Map</b></td>
-    <td align="center" width="20%"><b>🔧 Mechanic Profile</b></td>
-    <td align="center" width="20%"><b>📲 Hire Request</b></td>
-    <td align="center" width="20%"><b>📊 Admin Dashboard</b></td>
-    <td align="center" width="20%"><b>📥 Task Requests - Mechanic's Side</b></td>
+    <td align="center" width="20%"><b>Real-Time Map</b></td>
+    <td align="center" width="20%"><b>Mechanic Profile</b></td>
+    <td align="center" width="20%"><b>Hire Request</b></td>
+    <td align="center" width="20%"><b>Admin Dashboard</b></td>
+    <td align="center" width="20%"><b>Task Requests - Mechanic's Side</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/map_view.jpeg" width="100%" alt="Real-Time Map"/></td>
