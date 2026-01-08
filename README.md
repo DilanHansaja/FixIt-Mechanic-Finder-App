@@ -95,10 +95,27 @@ This project is built using a **Native Android** approach, ensuring high perform
 
 ## ⚙️ Setup & Installation
 
-Since the backend services are decommissioned, you must provide your own API keys to build the project successfully.
+Since the backend keys are decommissioned, you must provide your own API keys to build the project successfully.
 
-### 1. Clone the Repository
-Run this command in your terminal to download the project:
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git
+    ```
 
-```bash
-git clone https://github.com/DilanHansaja/FixIt-Mechanic-Finder-App.git
+2.  **Configure Secrets**
+    Create a `local.properties` file in the root directory and add your keys:
+    ```properties
+    GOOGLE_API_KEY=your_google_maps_key
+    PAYHERE_MERCHANT_ID=your_merchant_id
+    ```
+
+3.  **Build & Run**
+    Open the project in **Android Studio (Ladybug or newer)** and sync Gradle.
+
+---
+
+## 👨‍💻 Author
+
+**Software Engineering Student** *Open Source Portfolio Showcase*
+
+---
