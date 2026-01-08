@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">FixIt</string>
+    <string name="app_text1">User Login</string>
+    <string name="app_text2">Mechanic Login</string>
+
+    <string name="login_in_text1">Login here</string>
+    <string name="login_in_text2">Sign in to FixIt and get quick access to trusted mechanics anytime, anywhere.</string>
+    <string name="login_in_text3">Email</string>
+    <string name="login_in_text4">Password</string>
+    <string name="login_in_text5">Login</string>
+    <string name="login_in_text6">Or</string>
+    <string name="login_in_text7">Create New Account</string>
+    <string name="login_in_text8">Forgot your password?</string>
+    <string name="login_in_text9">Continue with Google</string>
+
+    <string name="user_type_text1">Continue As…</string>
+    <string name="user_type_text2">Choose your role to find help or offer your services.</string>
+    <string name="user_type_text3">User</string>
+    <string name="user_type_text4">Mechanic</string>
+    <string name="user_type_text5">Create New Account</string>
+
+    <string name="register_text1">Register here</string>
+    <string name="register_text2">Find nearby mechanics or offer your services. Get started in just a few steps!</string>
+    <string name="register_text3">First name</string>
+    <string name="register_text4">Last name</string>
+    <string name="register_text5">Email</string>
+    <string name="register_text6">Password</string>
+    <string name="register_text7">Confirm Password</string>
+    <string name="register_text8">Register</string>
+    <string name="register_text9">Iam a Mechanic</string>
+    <string name="register_textA">Iam a User</string>
+    <string name="register_textB">Login here</string>
+
+    <string name="nav_text1">Username</string>
+    <string name="nav_text2">example@gmail.com</string>
+
+    <string name="nav_menu_text1">Home</string>
+    <string name="nav_menu_text2">Find Mechanic</string>
+    <string name="nav_menu_text3">My Requests</string>
+    <string name="nav_menu_text4">Task History</string>
+    <string name="nav_menu_text5">Payments</string>
+    <string name="nav_menu_text6">Ratings &amp; Reviews</string>
+    <string name="nav_menu_text7">Help &amp; Support</string>
+    <string name="nav_menu_text8">KYC Verification</string>
+    <string name="nav_menu_text9">Logout</string>
+    <string name="nav_menu_textA">FixIt Services</string>
+    <string name="nav_menu_textB">My Income</string>
+    <string name="nav_menu_textC">Support &amp; Settings</string>
+    <string name="nav_menu_textD">My Profile</string>
+    <string name="nav_menu_textE">Task requests</string>
+    <string name="nav_menu_textF">Request History</string>
+
+    <string name="mechanic_profile_text1">Sahan Perera</string>
+    <string name="mechanic_profile_text2">Mechanic</string>
+    <string name="mechanic_profile_text3">Experienced auto mechanic specializing in repairs, diagnostics, and roadside assistance.</string>
+    <string name="mechanic_profile_text4">20 Reviews</string>
+    <string name="mechanic_profile_text5">0.0</string>
+    <string name="mechanic_profile_text6">LKR 250</string>
+    <string name="mechanic_profile_text7">Rate per hour</string>
+    <string name="mechanic_profile_text8">0</string>
+    <string name="mechanic_profile_text9">Verification</string>
+    <string name="mechanic_profile_text10">0000</string>
+    <string name="mechanic_profile_textA">Member since</string>
+    <string name="mechanic_profile_textB">Send Hire Request</string>
+    <string name="mechanic_profile_textC">Recent Reviews</string>
+    <string name="mechanic_profile_textD">Verified Mechanic</string>
+    <string name="mechanic_profile_textE">Edit profile details</string>
+
+    <string name="edit_mechanic_profile_text1">Edit profile</string>
+    <string name="edit_mechanic_profile_text2">Profile Bio</string>
+    <string name="edit_mechanic_profile_text3">Hourly Rate (LKR)</string>
+    <string name="edit_mechanic_profile_text4">Save details</string>
+
+    <string name="home_text1">Mechanics near you…</string>
+    <string name="home_text2">Search</string>
+    <string name="home_text3">Mechanics</string>
+    <string name="home_text4">Rate/H</string>
+    <string name="home_text5">LKR 1500 / h</string>
+    <string name="home_text6">Member Since</string>
+    <string name="home_text7">2024</string>
+    <string name="home_text8">Request</string>
+    <string name="home_text9">Today Earnings</string>
+    <string name="home_textA">This Month</string>
+    <string name="home_textC">LKR</string>
+    <string name="home_textD">Last Week Earnings (LKR)</string>
+
+
+    <string name="verify_email_text1">Verify your email</string>
+    <string name="verify_email_text2">Verify now</string>
+    <string name="verify_email_text3">Verification Code</string>
+
+    <string name="user_profile_text1">Profile details</string>
+    <string name="user_profile_text2">First name</string>
+    <string name="user_profile_text3">Last name</string>
+    <string name="user_profile_text4">Email</string>
+    <string name="user_profile_text5">Registered date</string>
+    <string name="user_profile_text6">Update Profile</string>
+
+    <string name="send_request_text1">Continue</string>
+    <string name="send_request_text2">Rate (LKR)</string>
+    <string name="send_request_text3">Choose Vehicle Type</string>
+    <string name="send_request_text4">Motorcycle</string>
+    <string name="send_request_text5">Three-Wheeler</string>
+    <string name="send_request_text6">Car</string>
+    <string name="send_request_text7">Van</string>
+    <string name="send_request_text8">Heavy</string>
+    <string name="send_request_text9">Other</string>
+    <string name="send_request_textA">Describe the issue (e.g., engine won’t start, tire puncture)</string>
+    <string name="send_request_textB">(Optional)</string>
+
+    <string name="send_request_summary_text1">Confirm request</string>
+    <string name="send_request_summary_text2">Mechanic name</string>
+    <string name="send_request_summary_text3">Vehicle Type</string>
+    <string name="send_request_summary_text4">Rate</string>
+    <string name="send_request_summary_text5">Payment Method</string>
+    <string name="send_request_summary_text6">Location</string>
+    <string name="send_request_summary_text7">Enter your mobile</string>
+
+    <string name="view_my_request_text1">My Requests</string>
+    <string name="view_my_request_text2">Pending</string>
+    <string name="view_my_request_text3">Approved</string>
+    <string name="view_my_request_text4">Ongoing</string>
+    <string name="view_my_request_text5">Date</string>
+    <string name="view_my_request_text6">Time</string>
+    <string name="view_my_request_text7">2025–02–14</string>
+    <string name="view_my_request_text8">10.25 AM</string>
+    <string name="view_my_request_text9">Status</string>
+
+    <string name="task_request_text1">From</string>
+    <string name="task_request_text2">25Km</string>
+    <string name="task_request_text3">Away</string>
+    <string name="task_request_text4">Decline</string>
+    <string name="task_request_text5">Approve</string>
+    <string name="task_request_text6">Locate</string>
+
+    <string name="req_details_text1">Request details</string>
+    <string name="req_details_text2">Request Code</string>
+    <string name="req_details_text3">Notes</string>
+    <string name="req_details_text4">Notes</string>
+    <string name="req_details_text5">Share the request code only when the mechanic arrives at your location.</string>
+    <string name="req_details_text6">*Never share it in advance to ensure a secure service.</string>
+    <string name="req_details_text7">Requested on</string>
+    <string name="req_details_text8">Starts at</string>
+    <string name="req_details_text9">Ends at</string>
+    <string name="req_details_textA">00:00</string>
+    <string name="req_details_textB">Time spent</string>
+    <string name="req_details_textC">Total</string>
+    <string name="req_details_textD">Pay Now</string>
+    <string name="req_details_textE">Cancel</string>
+    <string name="req_details_textF">Payment Received</string>
+
+    <string name="task_details_text1">Task Details</string>
+    <string name="task_details_text2">Client Name</string>
+    <string name="task_details_text3">Status</string>
+    <string name="task_details_text4">Payment</string>
+    <string name="task_details_text5">Call</string>
+    <string name="task_details_text6">Enter the code provided by the client upon arrival to start the task.</string>
+    <string name="task_details_text7">Earnings</string>
+    <string name="task_details_text8">Start</string>
+    <string name="task_details_text9">End</string>
+
+    <string name="reviews_text1">Review &amp; Feedback</string>
+
+    <string name="task_history_text1">Cost</string>
+    <string name="task_history_text2">Delete</string>
+
+
+    <string name="kyc_text1">You’re Verified!</string>
+    <string name="kyc_text2">Your KYC verification is complete! No further action is needed. If you need to update your details, please visit my profile section.</string>
+    <string name="kyc_text3">Upload Again</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
