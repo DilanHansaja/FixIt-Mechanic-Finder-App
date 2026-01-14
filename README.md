@@ -117,8 +117,3 @@ Since the backend keys are decommissioned, you must provide your own API keys to
 
 ---
 
-## 👨‍💻 Author
-
-**Software Engineering Student** | *Open Source Portfolio Showcase*
-
----
